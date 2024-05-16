@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Utkrisht-Utpal
-- 👀 I’m interested in Coding, Gaming, Loving and caring.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Coding, Gaming, and Photography.
+- 🌱 I’m currently learning HTML.
+- 📨 my linkedIn: www.linkedin.com/in/utkrisht-utpal-549320306
 - 📫 Reach me at: utkrishtutpal1@gmail.com 
 
 <!---
