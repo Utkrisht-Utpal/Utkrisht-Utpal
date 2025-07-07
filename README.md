@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Utkrisht-Utpal
 - 👀 I’m interested in Coding, Gaming, and Photography.
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning Java.
 - 📨 My linkedIn: www.linkedin.com/in/utkrisht-utpal-549320306
 - 📫 Explore my portfolio: https://utkrishts-portfolio.webflow.io/
 
