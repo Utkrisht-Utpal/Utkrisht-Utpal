@@ -1,5 +1,9 @@
+<!-- 🔥 HERO ANIMATED HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=800&color=42A5F5&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+Utkrisht+Utpal;CSE+Undergraduate+⚡+Builder+%26+Problem+Solver;Web+Dev+%7C+UI/UX+%7C+AI+Projects;Turning+Ideas+Into+Working+Systems" />
+</p>
+
 <div align="center">
-    <h1>Hi 👋, I'm Utkrisht Utpal</h1>
     <p><strong>Code. Lift. Capture. Repeat.</strong></p>
     <h3>A passionate Full-Stack Developer from India</h3>
 </div>
@@ -109,5 +113,3 @@
             width="40" height="40" />
     </a>
 </p>
-
-![Utkrisht's GitHub stats](https://github-readme-stats.vercel.app/api?username=Utkrisht-Utpal&show_icons=true&theme=tokyonight&cache_seconds=1800)
