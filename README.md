@@ -9,9 +9,9 @@
 </div>
 <br>
 
-- 🔭 I’m currently working on [Mindwell](https://mindwell-olive.vercel.app)
+- 🔭 I’m currently working on [Cloud Stack Club Website](https://cloudstack-official.vercel.app/)
 
-- 👯 I’m looking to collaborate on [Examify](https://examif1.vercel.app/)
+- 👯 I’m looking to collaborate on [Examify](https://examif1.vercel.app/) & [CodeXPath](https://code-x-path.vercel.app/)
 
 - 👨‍💻 All of my projects are available at
 [https://utkrishts-portfolio.webflow.io/](https://utkrishts-portfolio.webflow.io/)
