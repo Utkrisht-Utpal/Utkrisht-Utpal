@@ -90,83 +90,6 @@ I'm a **CSE undergraduate and Full-Stack Developer** who enjoys building things 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="55" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="55" />
 </p>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### ☁️ Cloud Stack Club
-
-A modern platform for a student tech community, focused on **technology, events, members and community engagement**.
-
-**Focus:** Full-Stack Development
-
-<p>
-<a href="https://cloudstack-official.vercel.app/">
-<img src="https://img.shields.io/badge/Live%20Website-42A5F5?style=flat-square&logo=vercel&logoColor=white" />
-</a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📝 Examify
-
-An online platform for conducting **MCQ and descriptive examinations**, designed to simplify the testing experience.
-
-**Focus:** Full-Stack Development
-
-<p>
-<a href="https://examif1.vercel.app/">
-<img src="https://img.shields.io/badge/Live%20Project-42A5F5?style=flat-square&logo=vercel&logoColor=white" />
-</a>
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🧭 CodeXPath
-
-A project focused on helping developers with their **coding and learning journey**.
-
-<p>
-<a href="https://code-x-path.vercel.app/">
-<img src="https://img.shields.io/badge/Live%20Project-42A5F5?style=flat-square&logo=vercel&logoColor=white" />
-</a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💡 More Projects
-
-Explore my other projects, experiments and things I'm currently building.
-
-<p>
-<a href="https://utkrishts-portfolio.webflow.io/">
-<img src="https://img.shields.io/badge/Visit%20Portfolio-42A5F5?style=flat-square&logo=googlechrome&logoColor=white" />
-</a>
-</p>
-
-</td>
-
-</tr>
-</table>
-
----
-
 # 🌱 Currently Learning
 
 <p align="center">
@@ -193,24 +116,6 @@ Explore my other projects, experiments and things I'm currently building.
     alt="GitHub Activity Graph"
   />
 </p>
-
----
-
-# 🧩 What I Like Building
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🌐%20Full--Stack%20Applications-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🧠%20Developer%20Tools-0D1117?style=for-the-badge" />
-  <br><br>
-  <img src="https://img.shields.io/badge/☁️%20Cloud%20%26%20DevOps-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎓%20Education%20Platforms-0D1117?style=for-the-badge" />
-  <br><br>
-  <img src="https://img.shields.io/badge/🎨%20Modern%20User%20Interfaces-0D1117?style=for-the-badge" />
-</p>
-
-> I learn best by building, breaking, fixing and rebuilding.
-
----
 
 # 📝 Writing
 
