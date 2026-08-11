@@ -269,21 +269,27 @@ Linux
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
+<a href="https://discordapp.com/users/757179877576146945">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
 </p>
 
 <p align="center">
-  <a href="https://utkrishts-portfolio.webflow.io/">🌐 Portfolio</a>
-  <br><br>
-  <a href="https://techdosecentral.blogspot.com/">✍️ Blog</a>
-  <br><br>
-  <a href="https://1drv.ms/w/c/8641eff74dde96ef/IQApL_NwVo2MQYe9FSK_afNkAc5IYHi3myhcQsiY6eGzVSM?e=QKjZwJ">📄 Resume</a>
+
+<a href="https://utkrishts-portfolio.webflow.io/">
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="https://techdosecentral.blogspot.com/">
+  <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+</a>
+
+<a href="https://1drv.ms/w/c/8641eff74dde96ef/IQApL_NwVo2MQYe9FSK_afNkAc5IYHi3myhcQsiY6eGzVSM?e=QKjZwJ">
+  <img src="https://img.shields.io/badge/Resume-0078D4?style=for-the-badge&logo=microsoftword&logoColor=white" />
+</a>
+
 </p>
-
-</td>
-
-</tr>
-</table>
-
 ---
 
 <p align="center">
