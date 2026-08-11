@@ -220,10 +220,6 @@ Linux
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🐳%20DevOps-Exploring-2496ED?style=for-the-badge&labelColor=555555" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/☁️%20Cloud-Exploring-42A5F5?style=for-the-badge&labelColor=555555" />
 </p>
 
@@ -290,6 +286,7 @@ Linux
 </a>
 
 </p>
+
 ---
 
 <p align="center">
