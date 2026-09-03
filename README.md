@@ -231,18 +231,14 @@ Linux
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Utkrisht-Utpal&theme=github-dark-blue&hide_border=true"
-    width="100%"
-    alt="GitHub Streak"
-  />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Utkrisht-Utpal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Utkrisht-Utpal&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true"
+    src="https://streak-stats.demolab.com?user=Utkrisht-Utpal&theme=github-dark-blue&hide_border=true"
     width="100%"
-    alt="GitHub Activity Graph"
+    alt="GitHub Streak"
   />
 </p>
 
