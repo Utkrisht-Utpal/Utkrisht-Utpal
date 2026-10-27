@@ -236,7 +236,7 @@ Linux
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Utkrisht-Utpal&theme=city-lights&hide_border=false"
+    src="https://github-readme-streak-stats.herokuapp.com?user=Utkrisht-Utpal&theme=darcula&hide_border=false"
     width="100%"
     alt="GitHub Streak"
   />
