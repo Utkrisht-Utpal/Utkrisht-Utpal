@@ -231,12 +231,12 @@ Linux
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Utkrisht-Utpal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Utkrisht-Utpal&show_icons=true&theme=darcula&include_all_commits=true&count_private=true&hide_border=false&border_radius=9.5"/>
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Utkrisht-Utpal&theme=github-dark-blue&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com?user=Utkrisht-Utpal&theme=city-lights&hide_border=false"
     width="100%"
     alt="GitHub Streak"
   />
