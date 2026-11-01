@@ -22,7 +22,7 @@
 
 I'm a **CSE undergraduate and Full-Stack Developer** who enjoys building things from scratch and turning ideas into working systems.
 
-- 🔭 Currently building **[Cloud Stack Club](https://cloudstack-official.vercel.app/)**
+- 🔭 Currently building **[GeoMark](https://github.com/Utkrisht-Utpal/GeoMark)**
 - 🚀 Working on **[Examify](https://examif1.vercel.app/)** and **[CodeXPath](https://code-x-path.vercel.app/)**
 - 🌱 Exploring **Full-Stack Development, DevOps & Cloud**
 - 🧠 Interested in **problem solving, software development and modern web technologies**
